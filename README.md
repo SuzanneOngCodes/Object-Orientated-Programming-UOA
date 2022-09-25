@@ -1,2 +1,2 @@
 # Coursework for UOA
-This is a repository for university work done, past assignments and more for reference only
+This is a repository for OOP past work done, included a task management app simulation in C++
